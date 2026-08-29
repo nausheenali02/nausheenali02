@@ -1,4 +1,4 @@
-Hi, I’m Nausheen!
+Hi, I’m Nausheen.
 
 An aspiring AI & Machine Learning professional with a strong interest in Deep Learning, Generative AI, and Large Language Models, combined with hands-on experience in Front-End Development.
 
